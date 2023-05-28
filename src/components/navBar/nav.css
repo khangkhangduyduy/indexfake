@@ -1,0 +1,11 @@
+.navbar-brand{
+  cursor:default;
+}
+.offcanvas-body a{
+  cursor:default;
+}
+
+.link0{
+  text-decoration: none;
+  color: inherit;
+}
